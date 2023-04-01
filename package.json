@@ -1,5 +1,5 @@
 {
-  "name": "mev-practical",
+  "name": "Flashbots",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LearnWeb3DAO/MEV-Practical.git"
+    "url": "git+https://github.com/tusharjain1003/Flashbots.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LearnWeb3DAO/MEV-Practical/issues"
+    "url": "https://github.com/tusharjain1003/Flashbots/issues"
   },
-  "homepage": "https://github.com/LearnWeb3DAO/MEV-Practical#readme",
+  "homepage": "https://github.com/tusharjain1003/Flashbots#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.5",
     "@nomiclabs/hardhat-waffle": "^2.0.3",
